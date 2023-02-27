@@ -94,14 +94,23 @@ In the previous sections, you updated your `README.md` file with your conclusion
 
 ---
 
-## Submission
+## Evaluation Report 
 
-* Use the started code provided to create the machine learning trading bot and host the notebook and the required files.
+In our challange SVC and Adaboost models were used; 
 
-* Include a `README.md` file with your conclusions as requested.
+* ### SVC Model
+![SVCImage](Images/svcoutput.png)
+![SVC](Images/svcreport.png)
 
-* Submit the link to your GitHub project to Bootcamp Spot.
+* ### Adaboost Model
+![Adaimage](Images/adaoutput.png)
+![ADA](Images/adareport.png)
+
+ 
+* The Adaboost model had a recall score of 0.92 compared to the recall score of 0.96 for the proposed model. This means that compared to the proposed model, the Adaboost model is slightly less accurate in indentifying true positives. 
+* It is important to note that precision and recall scores should be considfered together when understanding the overall performance of a model.
+* The precision score for prediciting false negatives for the baseline was 0.43 compared 0.44 for the Adaboost model, which indicates the acurracy of the model. 
+* Based on the Macro and Weighted average the Adaboost model performed slightly better than the baseline model. 
 
 ---
 
-© 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
