@@ -24,14 +24,6 @@ In a Jupyter notebook, you’ll do the following:
 
 As part of your GitHub repository’s `README.md` file, you will also create a report that compares the performance of the machine learning models based on the trading predictions that each makes and the resulting cumulative strategy returns.
 
-## Files
-
-Download the following files to help you get started:
-
-[Unit 14 homework files](Starter_Code/Starter_Code.zip)
-
-> **Note:** The provided CSV file contains OHLCV data for an MSCI&ndash;based emerging markets ETF that [iShares](https://www.ishares.com/us/products/268704/ishares-currency-hedged-msci-emerging-markets) issued. Investments in emerging markets make up an important aspect of a well-diversified investment portfolio. This is because the included equities have potentially higher long-term returns, even though they carry more risk.
-
 ## Instructions
 
 Use the starter code file to complete the steps that the instructions outline. The steps for this Challenge are divided into the following sections:
