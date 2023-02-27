@@ -86,7 +86,7 @@ In the previous sections, you updated your `README.md` file with your conclusion
 
 ---
 
-## Evaluation Report 
+## Summary Evaluation Report 
 
 In our challange SVC and Adaboost models were used; 
 
